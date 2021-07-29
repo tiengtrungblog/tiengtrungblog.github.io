@@ -80,7 +80,7 @@ var soloKanbanniang = {
     _initTips: function () {
       $.ajax({
         cache: true,
-        url: 'https://yuanhuang2807.github.io/tips.json',
+        url: 'https://tiengtrungblog.github.io/tips.json',
         dataType: 'json',
         success: function (result) {
           $.each(result.mouseover, function (index, tips) {

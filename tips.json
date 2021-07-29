@@ -14,7 +14,7 @@
         },
         {
             "selector": "#soloKanbanniangChat",
-            "text": "Đoán xem ta muốn nói gì nào"
+            "text": "Đi chơi nào!"
         },
         {
             "selector": "textarea",
@@ -22,15 +22,15 @@
         },
         {
             "selector": "#soloKanbanniangChange",
-            "text": "Thích xem playboy không hả dâm tặc？"
+            "text": "Cậu nhìn vậy mình ngại lắm á :<"
         },
         {
             "selector": "#soloKanbanniangClose",
-            "text": "Đến lúc nói tạm biệt và biến đi chưa mày?"
+            "text": "Cậu muốn mình biến đi thật hả :(?"
         },
         {
             "selector": "#soloKanbanniangPhoto",
-            "text": "Tao muốn chụp ảnh m một phát，一二三~click~~"
+            "text": "Tao muốn chụp ảnh m một phát，1...2...3~click~~"
         },
         {
             "selector": "#soloKanbanniang",
@@ -38,11 +38,11 @@
         },
         {
             "selector": "#soloKanbanniangGithub",
-            "text": "Đem em vào 5 sao, trói em vào cây đào :3🌟"
+            "text": "Đến xem kênh Github của mình không :3"
         },
         {
             "selector": "#soloKanbanniangRSS",
-            "text": "Thích thì nhấn vào <span style=\"color:#4285f4;\">đây </span>thằng ngu!"
+            "text": "Thích thì nhấn vào <span style=\"color:#4285f4;\">đây </span>đi!"
         }
     ],
     "click": [
@@ -54,15 +54,15 @@
     "seasons": [
         {
             "date": "01/01",
-            "text": "<span style=\"color:#4285f4;\">元旦</span>了呢，新的一年又开始了，{year}年打算做些什么呢~"
+            "text": "<span style=\"color:#4285f4;\">Năm mới</span>đến rồi đấy，một năm mới lại đến rồi，năm {year}bạn sẽ làm những gì đây nhỉ~"
         },
         {
             "date": "02/14",
-            "text": "又是一年<span style=\"color:#4285f4;\">情人节</span>，{year}年找到对象了嘛~"
+            "text": "Lại đến <span style=\"color:#4285f4;\">Lễ tình nhân</span> rồi đấy，năm {year} này cậu có còn là cẩu độc thân nữa không vậy ~"
         },
         {
             "date": "03/08",
-            "text": "今天是<span style=\"color:#4285f4;\">妇女节</span>！"
+            "text": "Chúc các bạn nữ có một ngày <span style=\"color:#4285f4;\">Phụ nữ</span>！thật là vui vẻ nhé!"
         },
         {
             "date": "03/12",
@@ -90,7 +90,7 @@
         },
         {
             "date": "10/01",
-            "text": "<span style=\"color:#4285f4;\">国庆节</span>，新中国已经成立69年了呢"
+            "text": "<span style=\"color:#4285f4;\">Ngày lễ quốc khánh</span>，chúc nước Việt Nam trường tồn và vĩ đại, <span style=\"color:#4285f4";\"> Đảng Cộng Sản Việt Nam quang vinh muôn năm </span>"
         },
         {
             "date": "11/05-11/12",

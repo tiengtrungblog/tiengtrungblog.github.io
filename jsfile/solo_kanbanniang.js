@@ -80,7 +80,7 @@ var soloKanbanniang = {
     _initTips: function () {
       $.ajax({
         cache: true,
-        url: 'https://yuanhuang2807.github.io/tips.json',
+        url: 'https://tiengtrungblog.github.io/tips.json',
         dataType: 'json',
         success: function (result) {
           $.each(result.mouseover, function (index, tips) {
@@ -134,12 +134,12 @@ var soloKanbanniang = {
       $('#soloKanbanniangChange').click(function () {
         loadlive2d('soloKanbanniang',
           'https://ld246.com/kanbanniang/model?t=' + (new Date()).getTime(),
-          soloKanbanniang.showMessage('Đồ mới của tao đấy! Đẹp không?', 3000, true))
+          soloKanbanniang.showMessage('Đồ mới của mình đấy! Đẹp không?', 3000, true))
         soloKanbanniang.bgChange()
       })
   
       $('#soloKanbanniangClose').click(function () {
-        soloKanbanniang.showMessage('Hẹn gặp lại nhé Wibu đê tiện', 1300, true)
+        soloKanbanniang.showMessage('Gặp lại câu sau nhé!', 1300, true)
         sessionStorage.setItem('soloKanbanniang', 'close')
         window.setTimeout(function () {
           $('.solo-kanbanniang').hide()
@@ -147,7 +147,7 @@ var soloKanbanniang = {
       })
   
       $('#soloKanbanniangPhoto').click(function () {
-        soloKanbanniang.showMessage('Chụp xong rồi hả thằng Wibu?', 5000, true)
+        soloKanbanniang.showMessage('Chụp xong rồi đó hả :3 ?', 5000, true)
         window.Live2D.captureName = 'solo.png'
         window.Live2D.captureFrame = true
       })
@@ -163,8 +163,8 @@ var soloKanbanniang = {
         Label.servePath.split('//')[1].split(':')[0]) {
         var referrer = document.createElement('a')
         referrer.href = document.referrer
-        text = 'Hello! Chào một thằng Wibu đến từ <span style="color:#4285f4;">' + referrer.hostname +
-          '</span> nhé!'
+        text = 'Hello! Chào một cậu, cấu đến từ <span style="color:#4285f4;">' + referrer.hostname +
+          '</span> phải không?'
         var domain = referrer.hostname.split('.')[1]
         if (domain == 'baidu') {
           text = 'Hello! 来自 百度搜索 的朋友<br>你是搜索 <span style="color:#4285f4;">' +

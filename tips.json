@@ -10,7 +10,7 @@
         },
         {
             "selector": "#soloKanbanniangHome",
-            "text": "Click vào <span style=\"color:#4285f4;\">trang chủ</span>，để về lại trang chủ nhé dâm tặc chan!"
+            "text": "Click vào <span style=\"color:#4285f4;\">trang chủ</span>，để về lại trang chủ nhé onii chan!"
         },
         {
             "selector": "#soloKanbanniangChat",
@@ -48,7 +48,7 @@
     "click": [
         {
             "selector": "#soloKanbanniang",
-            "text": ["Á. á. Cẩn thận, đụng nhầm chỗ rồi", "Biến đi, thằng Wibu đê tiện!", "Chưa nhìn thấy ngực bao giờ hả hả dâm tặc?", "Sờ thêm nữa t báo cảnh sát là ấu dâm đấy Wibuuuuuu！⌇●﹏●⌇", "113 phải không? Ở đây có thằng Wibu dâm tặc, biến thái, đê tiện(ó﹏ò｡)"]
+            "text": ["Á. á. Cẩn thận, đụng nhầm chỗ rồi", "Ơ, cậu vừa làm gì mình thế hả onii chan (◣_◢) !", "Cậu sờ trúng ngực mình rồi đấy (*ﾟﾛﾟ)?", "Sờ thêm phát nữa là mình báo cảnh sát đấy nhé！⌇●﹏●⌇", "113 phải không? Ở đây cò người bắt nạt con nít nè!!(ó﹏ò｡)"]
         }
     ],
     "seasons": [

@@ -118,8 +118,8 @@ var soloKanbanniang = {
         window.location = Label.servePath
       })
   
-      $('#soloKanbanniangRSS').click(function () {
-        window.location = Label.servePath + '/rss.xml'
+      $('#soloKanbanniangYoutube').click(function () {
+        window.location = 'https://www.youtube.com/channel/UCUBeAbkAG2BVo2rh5zK2dKg'
       })
   
       $('#soloKanbanniangGithub').click(function () {

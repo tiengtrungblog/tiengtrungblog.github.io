@@ -115,7 +115,7 @@ var soloKanbanniang = {
     },
     _initMenu: function () {
       $('#soloKanbanniangHome').click(function () {
-        window.location = Label.servePath
+        window.location = "https://www.tiengtrungblog.github.io"
       })
   
       $('#soloKanbanniangYoutube').click(function () {
